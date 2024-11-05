@@ -22,12 +22,15 @@ cd hybridRRT-Ccode/build/examples
 ./bouncing_ball
 cd ../../examples/visualize
 ./rosrun.bash
-//  ./rosrun.bash will query users in the Bash shell to:
-//  $ Enter index (0-) of the desired x-coordinates:
-//  $ Enter index (0-) of the desired y-coordinates:
-//  $(Optional) Enter index (0-) of the desired z-coordinates. If no z-coordinates are desired, press return:
-// For the x-coordinates, we will enter 4 to generate Figures 3a and 3b, or 2 to generate Figure 3c. For the y-coordinates, we will enter 0. For the z-coordinates, we will not enter anything, and only return.
 ```
+
+./rosrun.bash will query users in the Bash shell to:
+```bash
+$ Enter index (0-) of the desired x-coordinates:
+$ Enter index (0-) of the desired y-coordinates:
+$ (Optional) Enter index (0-) of the desired z-coordinates. If no z-coordinates are desired, press return:
+```
+For the x-coordinates, we will enter 4 to generate Figures 3a and 3b, or 2 to generate Figure 3c. For the y-coordinates, we will enter 0. For the z-coordinates, we will not enter anything, and only return.
 
 * Figure 4a and 4b:
 ```bash
@@ -35,12 +38,16 @@ cd hybridRRT-Ccode/build/examples
 ./multicopter
 cd ../../examples/visualize
 ./rosrun.bash
-//  ./rosrun.bash will query users in the Bash shell to:
-//  $ Enter index (0-) of the desired x-coordinates:
-//  $ Enter index (0-) of the desired y-coordinates:
-//  $(Optional) Enter index (0-) of the desired z-coordinates. If no z-coordinates are desired, press return:
-// For the x-coordinates, we will enter 0. For the y-coordinates, we will enter 1. For the z-coordinates, we will not enter anything, and only return.
 ```
+
+./rosrun.bash will query users in the Bash shell to:
+```bash
+$ Enter index (0-) of the desired x-coordinates:
+$ Enter index (0-) of the desired y-coordinates:
+$ (Optional) Enter index (0-) of the desired z-coordinates. If no z-coordinates are desired, press return:
+```
+For the x-coordinates, we will enter 0. For the y-coordinates, we will enter 1. For the z-coordinates, we will not enter anything, and only return.
+
 
 * Figure 4c:
 ```bash
@@ -48,12 +55,14 @@ cd hybridSST-Ccode/build/examples
 ./multicopter
 cd ../../examples/visualize
 ./rosrun.bash
-//  ./rosrun.bash will query users in the Bash shell to:
-//  $ Enter index (0-) of the desired x-coordinates:
-//  $ Enter index (0-) of the desired y-coordinates:
-//  $(Optional) Enter index (0-) of the desired z-coordinates. If no z-coordinates are desired, press return:
-// For the x-coordinates, we will enter 0. For the y-coordinates, we will enter 1. For the z-coordinates, we will not enter anything, and only return.
 ```
+./rosrun.bash will query users in the Bash shell to:
+```bash
+$ Enter index (0-) of the desired x-coordinates:
+$ Enter index (0-) of the desired y-coordinates:
+$ (Optional) Enter index (0-) of the desired z-coordinates. If no z-coordinates are desired, press return:
+```
+For the x-coordinates, we will enter 0. For the y-coordinates, we will enter 1. For the z-coordinates, we will not enter anything, and only return.
 
 Beverly Xu
 November 2024#
