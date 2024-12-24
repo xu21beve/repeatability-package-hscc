@@ -191,6 +191,13 @@ cd  ~/Documents/Github/hybridSST-Ccode/examples/visualize
 ./rosrun.bash
 ```
 
+## Code Structure and Method Details
+# UML Diagram
+Requirements of each customizable parameter can be found in the `README.md` of either tool directory.
+![](UML.png)
+
+# Code Structure Flowchart
+![](flowchart.png)
 
 Beverly Xu
 November 2024
