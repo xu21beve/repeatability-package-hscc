@@ -35,6 +35,7 @@ Now, to generate each figure:
 cd hybridRRT-Ccode/examples/visualize
 ./generate4a.bash
 ```
+![figure4a](4a.png)
 * Figure 4b: 
 ```bash
 cd hybridRRT-Ccode/examples/visualize
