@@ -35,32 +35,42 @@ Now, to generate each figure:
 cd hybridRRT-Ccode/examples/visualize
 ./generate4a.bash
 ```
-![figure4a](4a.png)
+![](4a.png)
 * Figure 4b: 
 ```bash
 cd hybridRRT-Ccode/examples/visualize
 ./generate4b.bash
 ```
+![](4b.png)
+
 * Figure 4c: 
 ```bash
 cd hybridRRT-Ccode/examples/visualize
 ./generate4c.bash
 ```
+![](4c.png)
+
 * Figure 5a: 
 ```bash
 cd hybridSST-Ccode/examples/visualize
 ./generate5a.bash
 ```
+![](5a.png)
+
 * Figure 5b: 
 ```bash
 cd hybridRRT-Ccode/examples/visualize
 ./generate5b.bash
 ```
+![](5b.png)
+
 * Figure 5c: 
 ```bash
 cd hybridRRT-Ccode/examples/visualize
 ./generate5c.bash
 ```
+![](5c.png)
+
 * Figure 6: 
 ```bash
 cd hybridSST-Ccode/examples
