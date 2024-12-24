@@ -164,7 +164,7 @@ add_executable(example_name example_name.cpp)
 target_link_libraries(example_name HyRRT ${OMPL_LIBRARIES})
 ```
 
-If using cHySST, add the following lines to line 17 of ~/Documents/Github/hybridSST-Ccode/examples/CMakeLists.txt:
+If using cHySST, add the following code snippet to line 17 of ~/Documents/Github/hybridSST-Ccode/examples/CMakeLists.txt:
 
 ```CMake
 # Add executable for user example
