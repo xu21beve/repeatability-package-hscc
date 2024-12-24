@@ -197,7 +197,7 @@ Requirements of each customizable parameter can be found in the `README.md` of e
 ![](UML.png)
 
 # Code Structure Flowchart
-![](flowchart.png)
+![](code-flow.png)
 
 Beverly Xu
 November 2024
