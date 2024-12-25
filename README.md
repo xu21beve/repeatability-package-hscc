@@ -35,41 +35,41 @@ Now, to generate each figure:
 cd hybridRRT-Ccode/examples/visualize
 ./generate4a.bash
 ```
-![](4a.png)
+![]([4a.png](https://github.com/xu21beve/repeatability-package-hscc/blob/main/4a.png))
 * Figure 4b: 
 ```bash
 cd hybridRRT-Ccode/examples/visualize
 ./generate4b.bash
 ```
-![](4b.png)
+![]([4b.png](https://github.com/xu21beve/repeatability-package-hscc/blob/main/4b.png))
 
 * Figure 4c: 
 ```bash
 cd hybridRRT-Ccode/examples/visualize
 ./generate4c.bash
 ```
-![](4c.png)
+![]([4c.png](https://github.com/xu21beve/repeatability-package-hscc/blob/main/4c.png))
 
 * Figure 5a: 
 ```bash
 cd hybridSST-Ccode/examples/visualize
 ./generate5a.bash
 ```
-![](5a.png)
+![]([5a.png](https://github.com/xu21beve/repeatability-package-hscc/blob/main/5a.png))
 
 * Figure 5b: 
 ```bash
 cd hybridRRT-Ccode/examples/visualize
 ./generate5b.bash
 ```
-![](5b.png)
+![]([5b.png](https://github.com/xu21beve/repeatability-package-hscc/blob/main/5b.png))
 
 * Figure 5c: 
 ```bash
 cd hybridRRT-Ccode/examples/visualize
 ./generate5c.bash
 ```
-![](5c.png)
+![]([5c.png](https://github.com/xu21beve/repeatability-package-hscc/blob/main/5c.png))
 
 * Figure 6: 
 ```bash
